@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmcpe-fun%2Fserver-manager.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmcpe-fun%2Fserver-manager?ref=badge_shield)
+
 <header id="PSMHeader">
         <h1>PSM</h1>
         <p class="light">PocketMine Server Manager<br>Manage MCPE servers like you never did before.</p>
@@ -66,3 +68,7 @@
         </div>
         <br>
         <br><br>
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmcpe-fun%2Fserver-manager.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmcpe-fun%2Fserver-manager?ref=badge_large)
